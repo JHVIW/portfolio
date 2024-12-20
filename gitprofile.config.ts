@@ -99,6 +99,7 @@ const CONFIG = {
       description:
         'Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2',
     },
+    ],
   themeConfig: {
     defaultTheme: 'lofi',
 
