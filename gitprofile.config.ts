@@ -84,10 +84,10 @@ const CONFIG = {
   educations: [
     {
       institution: 'Fontys University of Applied Sciences',
-      degree: 'Bachelor Informatica (Software engineering)',
+      degree: 'Bachelor Informatica (Software Engineering)',
       from: '2022',
       to: '2026',
-    };
+    },
   ],
   publications: [
     {
